@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Hello My Kitty</string>
+    <string name="cat_name">Введите имя</string>
+</resources>
